@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">gossipy</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="mapbox_access_token">pk.eyJ1Ijoic29ud2g5OCIsImEiOiJja3Y5N2MwN3AwMmUwMzFwZ2g1NnJ0MHZ1In0.t5wo_F8mvnNO4smu7uut7w</string>
+</resources>
